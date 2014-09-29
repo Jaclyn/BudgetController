@@ -1,0 +1,11 @@
+{
+  "name": "budget-controller",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A demo project created by Jaclyn",
+  "repository": "git@github.com:Jaclyn/BudgetController.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "ws"
+  }
+}
